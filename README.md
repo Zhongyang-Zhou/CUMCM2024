@@ -1,2 +1,2 @@
 # CUMCM2024
-Competition
+CUMCM2024 ProblemA
